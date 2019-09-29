@@ -36,20 +36,7 @@ public class Bot extends TelegramLongPollingBot {
             }
         }
 
-        //  sending.sendMsg(update.getMessage(),  UsersManager.getInstance().getLiderBoard().toString());
-
-
-//        String user = UsersManager.getInstance().getLeaders(update.getMessage().getChat());
-
-
-//sending.sendMsg(update.getMessage(),"Сонце ти просто монстер б можеш бавитися");
-            //          System.out.println(user);
-
-       // if (UsersManager.getInstance().getCurrentlyId(update.getMessage().getChat()).equals("382514487")&&b==0) {
-         //   sending.sendMsg(update.getMessage(), "Спочатку м\uD83D\uDC45\uD83D\uDC45\uD83D\uDC45, потiм квест\uD83D\uDE09");
-
-        //}
-
+      
 
 
 
